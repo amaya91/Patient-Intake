@@ -1,4 +1,4 @@
-This is the completed project at the end of the Getting Started Unit Testing with JUnit5 course on Pluralsight. 
+This is the completed project at the end of the Getting Started Unit Testing with JUnit5 course on Pluralsight. Project was created using SpringBoot and Maven for dependencies. 
 
 # Getting Started Unit Testing With JUnit 5
 
@@ -9,6 +9,3 @@ This repository contains source code examples for the [Pluralsight](http://plura
   * Java 8 or higher is required to compile and run the code.  
   * git, of course
 
-## Branches
-
-The master branch represents the system state at the beginning of the course, and there are other branches that correspond to the beginning state for each course module.  Simply clone the appropriate branch from where you wish to start work.
